@@ -1,0 +1,6 @@
+{
+  "name": "Discover Pakistan",
+  "description": "A premium, modern, cinematic tourism portal for Pakistan with interactive 3D elements, interactive location map, day-night environments, live-feel weather, and AI-powered custom trip planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
